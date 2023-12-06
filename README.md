@@ -1,2 +1,2 @@
 # grid-system-lib
- Basic Web layout lib using grd-syste,
+ Basic Web layout lib using grid-system
